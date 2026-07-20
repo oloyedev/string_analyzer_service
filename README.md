@@ -27,7 +27,6 @@ All strings are stored in memory (dictionary) for this stage, but the structure 
 - **Framework:** FastAPI
 - **Server:** Uvicorn (ASGI)
 - **Schema Validation:** Pydantic
-- **Deployment (recommended):** Railway / Heroku / AWS / PXXL App
 
 ---
 
