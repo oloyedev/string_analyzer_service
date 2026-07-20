@@ -1,4 +1,4 @@
-# 🧩 String Analyzer Service — Backend Wizards Stage 1
+# 🧩 String Analyzer Service
 
 A RESTful API service that analyzes strings, computes their properties, and supports both structured and natural-language filtering.
 
